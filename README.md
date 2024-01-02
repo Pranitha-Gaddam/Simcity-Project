@@ -1,5 +1,5 @@
 # Simcity-Project
-A city simulator using C++ that can predict population growth, resource production, power line connectivity, and simulate pollution spread through wind.
+A city simulator using C++ that can predict population growth, resource production, power line connectivity, and simulate pollution spread through wind. For detailed information, check wiki.
 
 <h3>Group Members:</h3>
 Pranitha Gaddam, Colton Daigneault, Cynai Hayes, Edward Asante, Ryan Arnold
